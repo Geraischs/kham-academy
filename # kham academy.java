@@ -1,4 +1,4 @@
-# kham academy
+
 let loadedPlugins = [];
 
 console.clear();
